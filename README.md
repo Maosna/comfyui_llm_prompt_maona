@@ -1,0 +1,2 @@
+# comfyui_llm_prompt_maona
+根据提示词模板让AI生成提示词
