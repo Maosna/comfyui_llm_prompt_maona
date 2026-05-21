@@ -7,7 +7,8 @@
 ## 安装
 1. 将本仓库克隆或下载到 ComfyUI 的 `custom_nodes/` 目录下：
    git clone https://github.com/Maosna/comfyui_llm_prompt_maona.git
-2. 安装依赖：
+
+3. 安装依赖：
    打开 ComfyUI 根目录终端，运行：
    .venv\Scripts\python.exe -m pip install openai
 
